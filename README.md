@@ -1,8 +1,8 @@
 Projeto Next Level
 
-![Preview] (./.github/Preview.png)
+![preview](./.github/Preview.png)
 
-[Clique aqui para acessar] (https://arilsonbs.github.io/Esportes/)
+[Clique aqui para acessar](https://arilsonbs.github.io/Esportes/)
 
 ## Tecnologias
 
